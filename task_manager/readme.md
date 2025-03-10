@@ -98,7 +98,7 @@ Task Manager Menu :
 
 ## Author
 **Manikesh**  
-[GitHub Profile](https://github.com/your-profile)
+[GitHub Profile](https://github.com/manisang89)
 
 If you find this project useful, consider giving it a star! ⭐
 
